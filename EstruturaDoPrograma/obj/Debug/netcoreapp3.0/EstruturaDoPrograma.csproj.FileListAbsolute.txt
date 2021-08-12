@@ -1,0 +1,14 @@
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.exe
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.deps.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.genruntimeconfig.cache
