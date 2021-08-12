@@ -1,0 +1,5 @@
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.AssemblyReference.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfo.cs
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.CoreCompileInputs.cache
