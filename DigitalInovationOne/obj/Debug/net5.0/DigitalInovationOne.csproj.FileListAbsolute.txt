@@ -1,0 +1,16 @@
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.exe
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.deps.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.dev.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\bin\Debug\net5.0\ref\DigitalInovationOne.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.pdb
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csproj.AssemblyReference.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfo.cs
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\ref\DigitalInovationOne.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.pdb
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Primeiros passos com .NET e C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.genruntimeconfig.cache
